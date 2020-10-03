@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DamianBarrios/node-weater-app/issues"
   },
-  "homepage": "https://github.com/DamianBarrios/node-weater-app#readme"
+  "homepage": "https://github.com/DamianBarrios/node-weater-app#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
